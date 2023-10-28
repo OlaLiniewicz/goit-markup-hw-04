@@ -492,12 +492,8 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    padding: 0 16px;
 }
 
-.p {
-    margin-bottom: 8px;
-}
 
 .link-portfolio:hover,
 .link-portfolio:focus {
@@ -509,7 +505,6 @@ a {
 .div-a {
     border: 1px solid var(--cornflower, #E7E9FC);
     border-top: none;
-    margin-bottom: 8px;
     padding: 32px 16px 32px;
 }
 /*
@@ -603,7 +598,6 @@ a {
     display: flex;
     align-items: flex-start;
     gap: 24px;
-    margin-top: 8px;
     justify-content: center;
 }
 
